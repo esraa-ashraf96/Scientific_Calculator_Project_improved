@@ -8,14 +8,14 @@ It provides various mathematical functions and operations for scientific calcula
 
 # Features:
 
-Basic arithmetic operations:  Addition(+), Subtraction(-), Multiplication(*), Division(÷)
-Trigonometric functions:  Sine, Cosine, Tangent
-Hyperbolic functions:  Sinh, Cosh, Tanh
-Exponential and Logarithmic functions: Exponentiation(e), Natural Logarithm(ln), Logarithm base 2(Log2),Logarithm base 10(Log10), Exponintial Number (e)
-Other mathematical functions: Square Root(v), Cube Root(3v), Factorial(!), Absolute(|x|), Percentage(%)
-Matrix operations: addition, subtraction, multiplication, scalar multiplication, inverse, transpose
-Function Solver: linear(aX+b=0),linear system(a1X+b1Y+c1=0,a2X+b2Y+c2=0),quadratic equation(aX^2+bX+c=0),Cubic equation(aX^3+bX^2+cX+d=0)
-Constants: Pi (p), 2*Pi (2p)
+ Basic arithmetic operations:  Addition(+), Subtraction(-), Multiplication(*), Division(÷)
+ Trigonometric functions:  Sine, Cosine, Tangent
+ Hyperbolic functions:  Sinh, Cosh, Tanh
+ Exponential and Logarithmic functions: Exponentiation(e), Natural Logarithm(ln), Logarithm base 2(Log2),Logarithm base 10(Log10), Exponintial Number (e)
+ Other mathematical functions: Square Root(v), Cube Root(3v), Factorial(!), Absolute(|x|), Percentage(%)
+ Matrix operations: addition, subtraction, multiplication, scalar multiplication, inverse, transpose
+ Function Solver: linear(aX+b=0),linear system(a1X+b1Y+c1=0,a2X+b2Y+c2=0),quadratic equation(aX^2+bX+c=0),Cubic equation(aX^3+bX^2+cX+d=0)
+ Constants: Pi (p), 2*Pi (2p)
 
 # Usage:
 
