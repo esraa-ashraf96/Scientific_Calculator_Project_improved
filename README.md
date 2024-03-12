@@ -8,7 +8,7 @@ It provides various mathematical functions and operations for scientific calcula
 
 # Features:
 
- Basic arithmetic operations:  Addition(+), Subtraction(-), Multiplication(*), Division(÷)
+± Basic arithmetic operations:  Addition(+), Subtraction(-), Multiplication(*), Division(÷)
 
  Trigonometric functions:  Sine, Cosine, Tangent
 
